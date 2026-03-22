@@ -101,3 +101,4 @@ Average Review Score
 • Scale operations in line with increasing order demand
 
 # Screenshots/Demos
+https://github.com/xxxchall-17/Supply-Chain-Delivery-Performance-Analysis/blob/main/Dashboard.png
